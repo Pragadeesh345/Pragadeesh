@@ -1,6 +1,7 @@
 # Hi, I'm Pragadeesh 
 
  BE CSE Student  
+ Final Year Student
  Python Developer  
  Interested in AI, Machine Learning and Software Development  
  Looking for Internship Opportunities  
