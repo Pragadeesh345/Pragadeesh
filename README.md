@@ -11,9 +11,10 @@
 Skills
 
 - Python
-- C Programming
 - Git & GitHub
 - HTML & CSS (Basic)
+- Javascript(Learning)
+- Bootstrap
 - Data Structures (Learning)
 - Machine Learning (Beginner)
 
