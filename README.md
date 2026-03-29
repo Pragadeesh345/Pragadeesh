@@ -27,6 +27,8 @@ Skills
 - Prime Number Programs
 - Palindrome Checker
 - Number Guessing Game
+- List Operations programs
+- String Operation programs
 - File Organizer (Python)
 - Mini AI Project (Coming Soon)
 - Data Analysis Project (Coming Soon)
